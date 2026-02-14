@@ -179,7 +179,7 @@ st.sidebar.caption("Tip: *tiny* is fastest on CPU, *small* is better quality but
 max_duration = st.sidebar.slider("Deepfake model window (seconds)", 1.0, 5.0, 2.0, 0.5)
 sr_target = 16000
 
-st.title("🎧 Deepfake Audio Analyzer")
+st.title("🎧 Eco Shield- Audio Deepfake Detection")
 st.caption("Upload an audio file to detect deepfake, estimate speaker gender, get duration, transcribe speech, and visualize a word cloud.")
 
 # ---------------------------
